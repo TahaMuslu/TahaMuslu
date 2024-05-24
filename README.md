@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Intelligrade](https://intelligrade.ai)
 
-- 👨‍💻 All of my projects are available at [https://tahamuslu.live/](https://tahamuslu.live/)
+- 👨‍💻 All of my projects are available at [https://tahamuslu.github.io/](https://tahamuslu.github.io/)
 
 - 📫 How to reach me **taha-_muslu1216@hotmail.com**
 
