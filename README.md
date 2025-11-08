@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taha Yasin Muslu</h1>
 <h3 align="center">A backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Intelligrade](https://intelligrade.ai)
+- 🔭 I’m currently working on [Signage Space](https://signagespace.com/)
 
 - 👨‍💻 All of my projects are available at [https://tahamuslu.github.io/](https://tahamuslu.github.io/)
 
